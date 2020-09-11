@@ -6,11 +6,11 @@ The lane marking regions are green when the model is confident that the lane mar
 
 > Final result video
 
-[![Lane marking detection comparison](http://img.youtube.com/vi/Eb-_uPb5D9M/0.jpg)](https://www.youtube.com/watch?v=Eb-_uPb5D9M "Lane marking detection comparison")
+[![Lane marking detection](http://img.youtube.com/vi/i3MAK13_ki0/0.jpg)](https://www.youtube.com/watch?v=i3MAK13_ki0 "Lane marking detection")
 
 > Comparison with the baseline algorithm
 
-[![Lane marking detection](http://img.youtube.com/vi/i3MAK13_ki0/0.jpg)](https://www.youtube.com/watch?v=i3MAK13_ki0 "Lane marking detection")
+[![Lane marking detection comparison](http://img.youtube.com/vi/Eb-_uPb5D9M/0.jpg)](https://www.youtube.com/watch?v=Eb-_uPb5D9M "Lane marking detection comparison")
 
 
 # Usage
