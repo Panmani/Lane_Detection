@@ -1,5 +1,5 @@
 # GCN
-This pipeline made a big improvement on detecting lane markings in a challenging video where the brightness changes rapidly and the road is very curvy. Published paper: [Vision-Based Lane Detection and Lane-Marking Model Inference: A Three-Step Deep Learning Approach](https://ieeexplore.ieee.org/document/8701850Â)
+This pipeline made a big improvement on detecting lane markings in a challenging video where the brightness changes rapidly and the road is very curvy. Published paper: [Vision-Based Lane Detection and Lane-Marking Model Inference: A Three-Step Deep Learning Approach](https://ieeexplore.ieee.org/document/8701850)
 
 # Result
 The lane marking regions are green when the model is confident that the lane markings are inside the regions; a region becomes yellow when the marking is not clear enough and the model infers this lane marking from the lane marking on the other side; when they become red, it means that the model cannot find enough pixels for both lane markings. If available, Ego-motion can be used to update the lane markings (future work).
