@@ -14,12 +14,12 @@ The lane marking regions are green when the model is confident that the lane mar
 
 
 # Usage
-Get the perspective transform information
+1. Get the perspective transform information
 ```
 $ python get_perspective_transform.py
 ```
 
-Detect lane-markings in a video
+2. Detect lane-markings in a video
 ```
 $ python find_lane.py
 ```
